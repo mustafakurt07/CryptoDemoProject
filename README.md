@@ -6,6 +6,6 @@ Unit test eksik kaldı mantığını oturtmam gerekiyor.
 # Ekran Görüntüsü
 ![KriptoDemo](https://user-images.githubusercontent.com/27029629/126983156-85d13c88-0940-4d45-9732-0d0a148c9aab.gif)
 # Yapılacaklar
-Test eklenecek
+Test eklenecek.
 Ui iyileştirilecek
 
